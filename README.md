@@ -2,6 +2,10 @@
 
 A small collection of python exercises
 
+## time_converter_seconds.py
+
+Prompts user for hours, minutes, and seconds, and returns the total number of seconds. 
+
 ## gross_pay_calculator.py
 
 Prompts the user for hours and rate per hour using input to compute gross pay. Pay the hourly rate for the hours up to 40 and 1.5 times the hourly rate for all hours worked above 40 hours.
